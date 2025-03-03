@@ -6,7 +6,7 @@
 A self-taught `Full-Stack web Developer`. 
 * I develop web applications in `Next.js` and `React.js`.
 * I develop backend applications in `Node.js`.
-* I devlop Ai application using `Mistral` models and `weaviate` vector database.
+* I devlop AI application using `Mistral` models and `Weaviate` vector database.
 
 ### Experience
 
