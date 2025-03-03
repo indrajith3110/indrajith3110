@@ -23,8 +23,4 @@ A self-taught `Full-Stack web Developer`.
 ### Projects
  -`Second Brain`
 
----
-
- 
- • [`LinkedIn`]([https://www.linkedin.com/in/kabirasani/](https://www.linkedin.com/in/indrajith-somaiah-r-m-33a567234/))
  
